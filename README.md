@@ -1,2 +1,1 @@
-# phillippresuel.github.io
-Will be hosting my "Portfolio" site here, eventually...
+Check out the source code for my website here!
